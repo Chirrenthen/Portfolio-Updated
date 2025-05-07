@@ -1,0 +1,48 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "E-Commerce Platform",
+      "description": "A cutting-edge e-commerce platform with real-time inventory management, AI-powered product recommendations, and seamless payment processing. Features include dynamic product filtering, user authentication, and an intuitive admin dashboard.",
+      "technologies": ["React", "Node.js", "Express", "MongoDB", "Stripe", "TensorFlow.js"],
+      "image": "https://images.pexels.com/photos/230544/pexels-photo-230544.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "url": "https://github.com/yourusername/ecommerce-platform",
+      "demoUrl": "https://ecommerce-demo.example.com",
+      "year": "2023",
+      "category": "E-Commerce"
+    },
+    {
+      "id": 2,
+      "title": "AI Task Manager",
+      "description": "An intelligent task management system that uses machine learning to prioritize tasks, predict completion times, and suggest optimal work schedules. Includes real-time collaboration features and automated progress tracking.",
+      "technologies": ["React", "Python", "FastAPI", "PostgreSQL", "scikit-learn", "WebSocket"],
+      "image": "https://images.pexels.com/photos/3183150/pexels-photo-3183150.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "url": "https://github.com/yourusername/task-management",
+      "demoUrl": "https://tasks-demo.example.com",
+      "year": "2023",
+      "category": "Productivity"
+    },
+    {
+      "id": 3,
+      "title": "Climate Analytics Dashboard",
+      "description": "A sophisticated weather analytics platform that combines real-time weather data with machine learning models to provide accurate forecasts and climate trend analysis. Features interactive 3D visualizations and predictive modeling.",
+      "technologies": ["Three.js", "D3.js", "Python", "TensorFlow", "WebGL", "REST APIs"],
+      "image": "https://images.pexels.com/photos/5800478/pexels-photo-5800478.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "url": "https://github.com/yourusername/weather-dashboard",
+      "demoUrl": "https://weather-demo.example.com",
+      "year": "2023",
+      "category": "Data Visualization"
+    },
+    {
+      "id": 4,
+      "title": "Social Analytics Hub",
+      "description": "A comprehensive social media analytics platform that leverages AI to track engagement metrics, sentiment analysis, and trend prediction across multiple platforms. Features real-time data processing and interactive reports.",
+      "technologies": ["React", "GraphQL", "Apollo", "TensorFlow.js", "WebSocket", "Redis"],
+      "image": "https://images.pexels.com/photos/533446/pexels-photo-533446.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "url": "https://github.com/yourusername/social-dashboard",
+      "demoUrl": "https://social-demo.example.com",
+      "year": "2023",
+      "category": "Analytics"
+    }
+  ]
+}

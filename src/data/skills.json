@@ -1,0 +1,96 @@
+{
+  "technical": [
+    {
+      "name": "JavaScript",
+      "level": 90,
+      "icon": "js-icon",
+      "color": "#F7DF1E"
+    },
+    {
+      "name": "React",
+      "level": 85,
+      "icon": "react-icon",
+      "color": "#61DAFB"
+    },
+    {
+      "name": "TypeScript",
+      "level": 80,
+      "icon": "ts-icon",
+      "color": "#3178C6"
+    },
+    {
+      "name": "Node.js",
+      "level": 75,
+      "icon": "node-icon",
+      "color": "#339933"
+    },
+    {
+      "name": "HTML/CSS",
+      "level": 95,
+      "icon": "html-icon",
+      "color": "#E34F26"
+    },
+    {
+      "name": "Python",
+      "level": 70,
+      "icon": "python-icon",
+      "color": "#3776AB"
+    },
+    {
+      "name": "SQL",
+      "level": 65,
+      "icon": "sql-icon",
+      "color": "#4479A1"
+    },
+    {
+      "name": "GraphQL",
+      "level": 60,
+      "icon": "graphql-icon",
+      "color": "#E10098"
+    }
+  ],
+  "tools": [
+    {
+      "name": "Git",
+      "level": 85,
+      "icon": "git-icon",
+      "color": "#F05032"
+    },
+    {
+      "name": "Docker",
+      "level": 70,
+      "icon": "docker-icon",
+      "color": "#2496ED"
+    },
+    {
+      "name": "AWS",
+      "level": 65,
+      "icon": "aws-icon",
+      "color": "#FF9900"
+    },
+    {
+      "name": "Figma",
+      "level": 75,
+      "icon": "figma-icon",
+      "color": "#F24E1E"
+    }
+  ],
+  "soft": [
+    {
+      "name": "Communication",
+      "level": 90
+    },
+    {
+      "name": "Teamwork",
+      "level": 95
+    },
+    {
+      "name": "Problem Solving",
+      "level": 85
+    },
+    {
+      "name": "Time Management",
+      "level": 80
+    }
+  ]
+}

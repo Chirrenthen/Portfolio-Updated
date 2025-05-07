@@ -1,0 +1,41 @@
+{
+  "name": "John Doe",
+  "title": "Frontend Developer",
+  "photo": "https://images.pexels.com/photos/1516680/pexels-photo-1516680.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+  "bio": "I'm a passionate frontend developer with expertise in building modern web applications. With 5+ years of experience, I've worked on a variety of projects from small startups to large enterprise applications. I love creating intuitive and responsive user interfaces that provide an exceptional user experience.",
+  "location": "San Francisco, CA",
+  "email": "john.doe@example.com",
+  "phone": "+1 (555) 123-4567",
+  "social": {
+    "github": "https://github.com/yourusername",
+    "linkedin": "https://linkedin.com/in/yourusername",
+    "twitter": "https://twitter.com/yourusername"
+  },
+  "education": [
+    {
+      "degree": "Bachelor of Science in Computer Science",
+      "institution": "University of California, Berkeley",
+      "year": "2015 - 2019"
+    }
+  ],
+  "experience": [
+    {
+      "position": "Senior Frontend Developer",
+      "company": "Tech Innovations Inc.",
+      "period": "2021 - Present",
+      "description": "Lead frontend development for the company's main product. Implemented new features and improved performance."
+    },
+    {
+      "position": "Frontend Developer",
+      "company": "Digital Solutions LLC",
+      "period": "2019 - 2021",
+      "description": "Developed responsive web applications using React and worked closely with the design team."
+    },
+    {
+      "position": "Web Development Intern",
+      "company": "StartUp Hub",
+      "period": "2018 - 2019",
+      "description": "Assisted in building and maintaining client websites. Gained experience with modern frameworks."
+    }
+  ]
+}
